@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saheelchowdhury, master's in Business Analytics at Simon Business School
-- 👀 I’m interested in Product Analytics, Product Management
-- 📊 Seeking internship/entry level roles: Product Management, Business Analyst, Product Analytics, Data Analytics 
+- 👀 I’m interested in Product Analytics, Data Analytics & Product Management
+- 📊 Seeking internship/entry level roles: Data Analytics, Product Management, Business Analyst, Product Analytics 
 - 🌱 I’m currently learning TensorFlow, Pattern Recognition, Hadoop, Snowflake
 - 💞️ I’m looking to collaborate on research : Gaming, Usage Patterns, User Analytics 
 - ⚡ Fun fact: Huge fan of TinTin, The Sopranos & Disco Elysium 
